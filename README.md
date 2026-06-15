@@ -38,14 +38,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stoneME2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoneME2&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=stoneME2&theme=tokyonight&hide_border=true)
 
 </div>
