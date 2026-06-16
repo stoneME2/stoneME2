@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kim+Hyeyeon+%F0%9F%91%8B;Backend+Developer;TypeScript+%7C+Node.js+%7C+AWS;Team+Player+%7C+CI%2FCD+Enthusiast)](https://git.io/typing-svg)
 
+
 </div>
 
 ---
