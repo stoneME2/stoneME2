@@ -1,7 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kim+Hyeyeon+%F0%9F%91%8B;Backend+Developer;TypeScript+%7C+Node.js+%7C+AWS;Team+Player+%7C+CI%2FCD+Enthusiast)](https://git.io/typing-svg)
+```
+  🎧  headphones on, world off
+```
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Stone+%F0%9F%90%92;Backend+Dev+%7C+Always+headphones+on+%F0%9F%8E%A7;TypeScript+%7C+Node.js+%7C+AWS;Coding+to+the+beat+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 </div>
 
